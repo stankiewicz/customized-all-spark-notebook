@@ -6,4 +6,4 @@ docker-compose build
 
 to start:
 
-docker-compose start
+docker-compose up
